@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My skills
+1. **Problem Solving**
+2. *Hands on involvement*
+3. Working *well* with **people**
